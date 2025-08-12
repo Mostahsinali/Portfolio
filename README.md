@@ -14,7 +14,7 @@
 - 🎓 Pursuing a degree in **Telecommunication Engineering**
 - 💻 Experienced in **Python**, **OpenCV**, and **C/C++**
 - 📡 Passionate about **telecom networks**, **image processing**, and **automation**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **drsyco315@gmail.com**
 
 ---
 
