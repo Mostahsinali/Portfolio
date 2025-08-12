@@ -25,7 +25,7 @@ This site showcases my programming skills, featured projects, and ways to connec
 ---
 
 ## 📬 Contact Me
-📧 Email: **youremail@gmail.com**  
+📧 Email: **drsyco315@gmail.com**  
 💼 LinkedIn: [Mostahsin Ali ]([https://linkedin.com/](https://www.linkedin.com/in/mostahsin-ali-27218127a/))  
 🐙 GitHub: [MostahsinAli](https://github.com/MostahsinAli)
 
